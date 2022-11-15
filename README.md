@@ -1,5 +1,5 @@
 # FREEDOM
-Pytorch implementation for "A Tale of Two Graphs: Freezing and Denoising Graph Structures for Multimodal Recommendation".
+Pytorch implementation for "A Tale of Two Graphs: Freezing and Denoising Graph Structures for Multimodal Recommendation" [arxiv](https://arxiv.org/abs/2211.06924).
 
 ## Overview of FREEDOM
 <p>
