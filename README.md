@@ -1,7 +1,7 @@
 # FREEDOM
 Pytorch implementation for "A Tale of Two Graphs: Freezing and Denoising Graph Structures for Multimodal Recommendation" [arxiv](https://arxiv.org/abs/2211.06924).  
 
-- :u5408: This model is integrated into the [MMRec](https://github.com/enoche/MMRec) framework.
+- :twisted_rightwards_arrows: This model is integrated into the [MMRec](https://github.com/enoche/MMRec) framework.
 
 
 ## Overview of FREEDOM
