@@ -1,6 +1,7 @@
 # FREEDOM
-Pytorch implementation for "A Tale of Two Graphs: Freezing and Denoising Graph Structures for Multimodal Recommendation" [arxiv](https://arxiv.org/abs/2211.06924).  Accepted to ACM MM'23.
+Pytorch implementation for "A Tale of Two Graphs: Freezing and Denoising Graph Structures for Multimodal Recommendation" [ACM Open Access](https://dl.acm.org/doi/10.1145/3581783.3611943).  Accepted to ACM MM'23.
 
+- [Poster](https://xinzhou.me/resources/MM_23_Poster-Final.pdf)
 - :twisted_rightwards_arrows: This model is integrated into the [MMRec](https://github.com/enoche/MMRec) framework.
 
 
